@@ -1,2 +1,2 @@
 # you can talk with me here
-the conversation then will ve visible to anyone who find this page
+the conversation then will be visible to anyone who find this page
